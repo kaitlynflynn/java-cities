@@ -23,7 +23,6 @@ public class City
     }
 
     // constructor
-
     public City(String cityState, double homePrice, int affordIndex)
     {
         this.cityState = cityState;
