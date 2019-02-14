@@ -9,6 +9,7 @@ import java.io.Serializable;
 
 public class CityMessage implements Serializable
 {
+    // fields
     private final String text;
     private final int priority; // is this mssg a priority?
     private final boolean secret; // true or false - is it a secret?
